@@ -17,4 +17,12 @@ integrity - data is cannot be changed
 availability - data is accessable to permitted entities
 
 Reminder of the *asynchronous key exchange*
-Question about 
+
+Computer network definition
+
+Network protocol definition = agreement between the communicating parties on how communication is to proceed
+describes: managing connection state, node identification, flow control, ensuring correct order of recieved messages, error detection and correction, data format and encoding
+
+
+
+Overall the lecture was very interactive and easy to follow.
