@@ -41,3 +41,8 @@ We target into smaller  weights.
 in uniform quantization, all quantized values are uniformly spaced.
 in non-uniform quantizatino, discrete quantization...
 It got interesting, and typing distracts me so I'm stopping :D
+Some of the variables can be pre-computed during quantization, and some cannot.
+## Layerwise vs channelwise quantization
+... vs more configurability but momre resources are needed
+## Post-training quantization
+Post-trainiing quantization is the process of computing quantization parameters
